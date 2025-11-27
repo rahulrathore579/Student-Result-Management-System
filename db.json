@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "section": "A",
+      "marks": 95,
+      "grade": "A+"
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "section": "B",
+      "marks": 82,
+      "grade": "A"
+    },
+    {
+      "id": "3",
+      "name": "Charlie Brown",
+      "section": "A",
+      "marks": 78,
+      "grade": "B+"
+    },
+    {
+      "id": "4",
+      "name": "Diana Prince",
+      "section": "C",
+      "marks": 91,
+      "grade": "A+"
+    },
+    {
+      "id": "5",
+      "name": "Ethan Hunt",
+      "section": "B",
+      "marks": 67,
+      "grade": "C+"
+    },
+    {
+      "id": "fd36",
+      "name": "rahul rathore",
+      "section": "CB",
+      "marks": 100,
+      "grade": "A+"
+    }
+  ]
+}

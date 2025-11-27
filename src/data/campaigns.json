@@ -1,0 +1,233 @@
+{
+  "campaigns": [
+    {
+      "id": "1",
+      "title": "Help Build a Rural School",
+      "description": "Building a school in a remote village to provide education to 200+ children who currently travel 15km daily.",
+      "image": "https://www.google.com/imgres?q=Build%20a%20Rural%20School%22&imgurl=https%3A%2F%2Fwww.samparkfoundation.org%2Fuploads%2Fblogs%2F1737115160_d1359288b947fc303572.jpg&imgrefurl=https%3A%2F%2Fwww.samparkfoundation.org%2Fblog%2Fbuilding-smart-classrooms-with-low-cost-digital-tools-in-rural-india&docid=IO73WFG_7uBp6M&tbnid=eJJH7St31FvBUM&vet=12ahUKEwj_wpTShY2RAxVOyzgGHf1ZFNwQM3oECCEQAA..i&w=3696&h=2448&hcb=2&ved=2ahUKEwj_wpTShY2RAxVOyzgGHf1ZFNwQM3oECCEQAA",
+      "category": "Education",
+      "goal": 500000,
+      "raised": 390000,
+      "backers": 234,
+      "daysLeft": 12,
+      "createdDate": "2024-12-15",
+      "creator": "Rajesh Kumar",
+      "status": "active"
+    },
+    {
+      "id": "2",
+      "title": "Innovative Solar Backpack",
+      "description": "Revolutionary solar-powered backpack with built-in charging ports for students and travelers.",
+      "image": "image.png",
+      "category": "Technology",
+      "goal": 300000,
+      "raised": 123000,
+      "backers": 89,
+      "daysLeft": 20,
+      "createdDate": "2024-11-28",
+      "creator": "Tech Innovations",
+      "status": "active"
+    },
+    {
+      "id": "3",
+      "title": "Medical Support for Asha",
+      "description": "Critical medical treatment fund for 8-year-old Asha battling a rare heart condition.",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=600&fit=crop",
+      "category": "Medical",
+      "goal": 800000,
+      "raised": 440000,
+      "backers": 567,
+      "daysLeft": 5,
+      "createdDate": "2025-01-10",
+      "creator": "Sharma Family",
+      "status": "active"
+    },
+    {
+      "id": "4",
+      "title": "Save Stray Dogs - Medical Treatment",
+      "description": "Emergency medical care and shelter for injured street dogs in the city. Help us save innocent lives.",
+      "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&h=600&fit=crop",
+      "category": "Animals",
+      "goal": 150000,
+      "raised": 98000,
+      "backers": 156,
+      "daysLeft": 18,
+      "createdDate": "2024-12-20",
+      "creator": "Paws & Care NGO",
+      "status": "active"
+    },
+    {
+      "id": "5",
+      "title": "AI-Powered Braille Reader for Students",
+      "description": "Developing an affordable AI device that converts text to braille in real-time for visually impaired students.",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=600&fit=crop",
+      "category": "Technology",
+      "goal": 450000,
+      "raised": 267000,
+      "backers": 178,
+      "daysLeft": 25,
+      "createdDate": "2024-11-15",
+      "creator": "AccessTech Solutions",
+      "status": "active"
+    },
+    {
+      "id": "6",
+      "title": "Water Supply Project in Tribal Village",
+      "description": "Installing clean water supply system for 50 tribal families facing severe water scarcity.",
+      "image": "https://images.unsplash.com/photo-1541844053589-346841d0b34c?w=800&h=600&fit=crop",
+      "category": "Community",
+      "goal": 600000,
+      "raised": 425000,
+      "backers": 289,
+      "daysLeft": 8,
+      "createdDate": "2025-01-05",
+      "creator": "Rural Development Trust",
+      "status": "active"
+    },
+    {
+      "id": "7",
+      "title": "Solar Lights for Remote Villages",
+      "description": "Bringing solar-powered lighting to 10 villages that still live without electricity.",
+      "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&h=600&fit=crop",
+      "category": "Community",
+      "goal": 350000,
+      "raised": 310000,
+      "backers": 412,
+      "daysLeft": 3,
+      "createdDate": "2024-08-10",
+      "creator": "Green Energy Initiative",
+      "status": "active"
+    },
+    {
+      "id": "8",
+      "title": "Support Cancer Treatment",
+      "description": "Help Meera fight breast cancer. Funds needed for chemotherapy and advanced treatment.",
+      "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=800&h=600&fit=crop",
+      "category": "Medical",
+      "goal": 1000000,
+      "raised": 720000,
+      "backers": 634,
+      "daysLeft": 15,
+      "createdDate": "2024-12-01",
+      "creator": "Friends of Meera",
+      "status": "active"
+    },
+    {
+      "id": "9",
+      "title": "Flood Relief Kerala 2024",
+      "description": "Emergency relief fund for families affected by devastating floods in Kerala districts.",
+      "image": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800&h=600&fit=crop",
+      "category": "Disaster Relief",
+      "goal": 2000000,
+      "raised": 1850000,
+      "backers": 1203,
+      "daysLeft": 7,
+      "createdDate": "2024-11-25",
+      "creator": "Kerala Disaster Relief",
+      "status": "active"
+    },
+    {
+      "id": "10",
+      "title": "Interactive Learning App for Kids",
+      "description": "Creating a gamified educational app to make learning fun for children aged 5-12.",
+      "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=600&fit=crop",
+      "category": "Education",
+      "goal": 400000,
+      "raised": 145000,
+      "backers": 98,
+      "daysLeft": 30,
+      "createdDate": "2024-11-10",
+      "creator": "EduPlay Studios",
+      "status": "active"
+    },
+    {
+      "id": "11",
+      "title": "Animal Shelter Construction",
+      "description": "Building a modern shelter facility for abandoned and rescued animals with medical care unit.",
+      "image": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=800&h=600&fit=crop",
+      "category": "Animals",
+      "goal": 750000,
+      "raised": 520000,
+      "backers": 345,
+      "daysLeft": 14,
+      "createdDate": "2024-12-05",
+      "creator": "Forever Home Foundation",
+      "status": "active"
+    },
+    {
+      "id": "12",
+      "title": "Eco-Friendly Food Packaging Startup",
+      "description": "Launching biodegradable packaging solution to replace plastic in food industry.",
+      "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&h=600&fit=crop",
+      "category": "Technology",
+      "goal": 900000,
+      "raised": 567000,
+      "backers": 234,
+      "daysLeft": 22,
+      "createdDate": "2024-11-20",
+      "creator": "GreenPack Innovations",
+      "status": "active"
+    }
+  ],
+  "categories": [
+    {
+      "id": "education",
+      "name": "Education",
+      "icon": "GraduationCap",
+      "count": 145
+    },
+    {
+      "id": "medical",
+      "name": "Medical",
+      "icon": "Heart",
+      "count": 312
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "icon": "Cpu",
+      "count": 89
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "icon": "Dog",
+      "count": 67
+    },
+    {
+      "id": "community",
+      "name": "Community",
+      "icon": "Users",
+      "count": 198
+    },
+    {
+      "id": "disaster",
+      "name": "Disaster Relief",
+      "icon": "AlertTriangle",
+      "count": 54
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Priya Sharma",
+      "role": "Campaign Creator",
+      "content": "Thanks to this platform, I raised funds for my daughter's surgery in just 10 days. Forever grateful!",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop"
+    },
+    {
+      "id": "2",
+      "name": "Arjun Patel",
+      "role": "Tech Entrepreneur",
+      "content": "Launched my startup through crowdfunding here. The community support was incredible!",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop"
+    },
+    {
+      "id": "3",
+      "name": "Anjali Mehta",
+      "role": "Social Worker",
+      "content": "We built 3 schools in rural areas with funds raised here. This platform changes lives!",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop"
+    }
+  ]
+}
